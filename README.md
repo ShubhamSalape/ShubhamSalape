@@ -52,7 +52,9 @@ class ShubhamSalape:
         print("Keep learning... Keep improving...")
 ````
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 💫 About Me
 
@@ -81,7 +83,9 @@ class ShubhamSalape:
 * Improving deployment & MLOps skills
 * Deepening understanding of modern AI systems
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 🌐 Connect With Me
 
@@ -105,7 +109,9 @@ class ShubhamSalape:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 
 # ⚡ Tech Stack
@@ -145,7 +151,9 @@ class ShubhamSalape:
 
 
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 🚀 AI / ML Domains
 
@@ -160,7 +168,9 @@ class ShubhamSalape:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 📊 GitHub Analytics
 
@@ -180,7 +190,9 @@ class ShubhamSalape:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 📈 Contribution Graph
 
@@ -190,7 +202,9 @@ class ShubhamSalape:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 🏆 GitHub Achievements
 
@@ -200,7 +214,9 @@ class ShubhamSalape:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 🧠 Current Focus
 
@@ -211,7 +227,9 @@ class ShubhamSalape:
 🚀 Learning Deployment & MLOps
 ```
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 🌌 Philosophy
 
@@ -221,7 +239,9 @@ class ShubhamSalape:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 # 👁 Visitor Counter
 
@@ -231,7 +251,9 @@ class ShubhamSalape:
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
+</p>
 
 <div align="center">
 
