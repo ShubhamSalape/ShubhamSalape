@@ -319,7 +319,7 @@ class ShubhamSalape:
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Data_mining" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
-  <img src="https://www.flaticon.com/free-icon/data-mining_8635568" width="60" alt="Data Mining" title="Data Mining" style="display:inline-block;"/>
+  <img src="https://img.icons8.com/color/512/pickaxe.png" width="60" alt="Data Mining" title="Data Mining" style="display:inline-block;"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Data_pipeline" target="_blank">
