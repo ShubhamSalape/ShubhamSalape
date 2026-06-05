@@ -77,56 +77,33 @@ class ShubhamSalape:
 
 ---
 
+
 # ⚡ Tech Stack
 
 <div align="center">
 
-## 💻 Languages & Databases
-
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github,tensorflow,pytorch,sklearn"/>
 
 <br><br>
 
-## 📊 Data Analytics & Visualization
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
-<br><br>
-
-## 🧠 AI / ML Libraries
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
-
-<br><br>
-
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br><br>
 
-## 🛠 Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<br><br>
-
-## 📚 Core Domains
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A192F?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge&logo=databricks&logoColor=red"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=red"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-111827?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/>
 
 </div>
-```
+
 
 
 ---
