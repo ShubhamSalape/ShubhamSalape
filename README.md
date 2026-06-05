@@ -3,13 +3,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFA500,50:FFB732,100:FFD447&text=Shubham%20Salape&fontColor=0A192F&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=60&descColor=0A192F&animation=fadeIn"/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6ec4b6-7d44-4c3e-b3ed-5d4dfbcb6f3.gif"/>
+<img width="70%" src="https://user-images.githubusercontent.com/74038190/212284100-70d0e6a2-63e8-4a9f-9be3-dfc6d85ca394.gif"/>
 
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=FFD447&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems;Machine+Learning+%7C+Data+Science+%7C+AI;Always+Learning+Always+Improving" />
 
 </div>
+
+
 
 ---
 
