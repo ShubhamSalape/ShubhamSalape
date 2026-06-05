@@ -174,8 +174,14 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55" height="55" title="Pandas"/>
+<a href="https://pandas.pydata.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+    width="55"
+    height="55"
+    alt="Pandas"
+    title="Pandas"
+  />
 </a>
 
 <a href="https://matplotlib.org/" target="_blank">
