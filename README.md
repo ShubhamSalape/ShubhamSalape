@@ -115,7 +115,7 @@ class ShubhamSalape:
 
 # 💻 Languages
 
-<a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img 
     src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"
     width="55"
