@@ -115,12 +115,17 @@ class ShubhamSalape:
 
 # 💻 Languages
 
-<a href="https://www.python.org/" target="_blank">
+<a 
+  href="https://www.python.org/" 
+  target="_blank"
+  style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;"
+>
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     width="60"
     alt="Python"
     title="Python"
+    style="display:inline-block;"
   />
 </a>
 
