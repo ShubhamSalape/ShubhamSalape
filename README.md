@@ -288,8 +288,14 @@ class ShubhamSalape:
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="55" height="55" title="Git"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55" title="GitHub"/>
+<a href="https://github.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+    width="60"
+    alt="GitHub"
+    title="GitHub"
+    style="display:inline-block;"
+  />
 </a>
 
 ---
