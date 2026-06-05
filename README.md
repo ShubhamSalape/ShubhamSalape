@@ -318,8 +318,8 @@ class ShubhamSalape:
 <img src="https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=for-the-badge&logo=databricks&logoColor=white" title="Data Cleaning"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Data_mining" target="_blank">
-<img src="https://img.shields.io/badge/Data%20Mining-4682B4?style=for-the-badge&logo=apachehadoop&logoColor=white" title="Data Mining"/>
+<a href="https://en.wikipedia.org/wiki/Data_mining" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-data-mining-big-data-flaticons-flat-flat-icons.png" width="60" alt="Data Mining" title="Data Mining" style="display:inline-block;"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Data_pipeline" target="_blank">
