@@ -8,6 +8,9 @@
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
+
 ---
 
 # 🧠 AI PROFILE INITIALIZATION
