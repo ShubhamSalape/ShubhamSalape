@@ -8,9 +8,8 @@
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 
 
@@ -52,9 +51,8 @@ class ShubhamSalape:
         print("Keep learning... Keep improving...")
 ````
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 # 💫 About Me
 
@@ -83,9 +81,8 @@ class ShubhamSalape:
 * Improving deployment & MLOps skills
 * Deepening understanding of modern AI systems
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 # 🌐 Connect With Me
 
@@ -109,9 +106,8 @@ class ShubhamSalape:
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 
 # ⚡ Tech Stack
@@ -151,9 +147,8 @@ class ShubhamSalape:
 
 
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 # 🚀 AI / ML Domains
 
@@ -168,9 +163,8 @@ class ShubhamSalape:
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 # 📊 GitHub Analytics
 
@@ -190,9 +184,8 @@ class ShubhamSalape:
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 # 📈 Contribution Graph
 
@@ -202,9 +195,8 @@ class ShubhamSalape:
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 # 🏆 GitHub Achievements
 
@@ -214,9 +206,8 @@ class ShubhamSalape:
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 # 🧠 Current Focus
 
@@ -227,9 +218,10 @@ class ShubhamSalape:
 🚀 Learning Deployment & MLOps
 ```
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
-</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
+
 
 # 🌌 Philosophy
 
@@ -260,4 +252,3 @@ class ShubhamSalape:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFA500,50:FFB732,100:FFD447"/>
 
 </div>
-```
