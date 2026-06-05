@@ -128,15 +128,15 @@ class ShubhamSalape:
 # 📊 Data Analytics & BI
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" title="Power BI" alt="Power BI"/>
 </a>
 
 <a href="https://www.tableau.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau"/>
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" title="Tableau" alt="Tableau"/>
 </a>
 
 <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Microsoft Excel"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" title="Microsoft Excel" alt="Excel"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank">
@@ -148,23 +148,23 @@ class ShubhamSalape:
 # 📚 Data Science Libraries
 
 <a href="https://numpy.org/" target="_blank">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" title="NumPy" alt="NumPy"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" title="Pandas" alt="Pandas"/>
 </a>
 
 <a href="https://matplotlib.org/" target="_blank">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" title="Matplotlib"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" title="Matplotlib" alt="Matplotlib"/>
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" title="Seaborn"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" title="Seaborn" alt="Seaborn"/>
 </a>
 
 <a href="https://scipy.org/" target="_blank">
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" title="SciPy"/>
+<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" title="SciPy" alt="SciPy"/>
 </a>
 
 ---
@@ -184,27 +184,27 @@ class ShubhamSalape:
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" title="Machine Learning"/>
+<img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" title="Deep Learning"/>
+<img src="https://img.shields.io/badge/DL-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" title="Deep Learning"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
-<img src="https://img.shields.io/badge/Neural%20Networks-111827?style=for-the-badge" title="Neural Networks"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-111827?style=for-the-badge&logo=tensorflow&logoColor=orange" title="Neural Networks"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" title="Natural Language Processing"/>
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=spacy&logoColor=white" title="Natural Language Processing"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank">
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" title="Large Language Models"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" title="Large Language Models"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
-<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" title="Retrieval-Augmented Generation"/>
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=semanticweb&logoColor=white" title="Retrieval-Augmented Generation"/>
 </a>
 
 ---
@@ -212,19 +212,19 @@ class ShubhamSalape:
 # 📈 Statistics & ML Concepts
 
 <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">
-<img src="https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge" title="Statistics"/>
+<img src="https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge&logo=databricks&logoColor=red" title="Statistics"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">
-<img src="https://img.shields.io/badge/ROC--AUC-DC143C?style=for-the-badge" title="ROC-AUC"/>
+<img src="https://img.shields.io/badge/ROC--AUC-DC143C?style=for-the-badge&logo=target&logoColor=white" title="ROC-AUC"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank">
-<img src="https://img.shields.io/badge/Feature%20Engineering-00599C?style=for-the-badge" title="Feature Engineering"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-00599C?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Feature Engineering"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank">
-<img src="https://img.shields.io/badge/EDA-16A085?style=for-the-badge" title="Exploratory Data Analysis"/>
+<img src="https://img.shields.io/badge/EDA-16A085?style=for-the-badge&logo=googleanalytics&logoColor=white" title="Exploratory Data Analysis"/>
 </a>
 
 ---
@@ -232,7 +232,7 @@ class ShubhamSalape:
 # 🛠 Tools & Platforms
 
 <a href="https://jupyter.org/" target="_blank">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter Notebook"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" title="Jupyter Notebook" alt="Jupyter"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -240,7 +240,7 @@ class ShubhamSalape:
 </a>
 
 <a href="https://colab.research.google.com/" target="_blank">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" title="Google Colab"/>
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" title="Google Colab" alt="Google Colab"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
@@ -256,18 +256,19 @@ class ShubhamSalape:
 # ⚙ Data Engineering & Workflow
 
 <a href="https://en.wikipedia.org/wiki/Data_cleaning" target="_blank">
-<img src="https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=for-the-badge" title="Data Cleaning"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=for-the-badge&logo=databricks&logoColor=white" title="Data Cleaning"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Data_mining" target="_blank">
-<img src="https://img.shields.io/badge/Data%20Mining-4682B4?style=for-the-badge" title="Data Mining"/>
+<img src="https://img.shields.io/badge/Data%20Mining-4682B4?style=for-the-badge&logo=apachehadoop&logoColor=white" title="Data Mining"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Data_pipeline" target="_blank">
-<img src="https://img.shields.io/badge/Data%20Pipelines-8B5CF6?style=for-the-badge" title="Data Pipelines"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines-8B5CF6?style=for-the-badge&logo=apacheairflow&logoColor=white" title="Data Pipelines"/>
 </a>
 
 </div>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
