@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Shubham%20Salape&fontSize=55&fontAlignY=40&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Explorer&descAlignY=62&animation=fadeIn"/>
@@ -30,12 +29,6 @@ class ShubhamSalape:
                 "Regression",
                 "Classification",
                 "NLP"
-            ],
-            "Tools": [
-                "Git",
-                "GitHub",
-                "VS Code",
-                "Jupyter"
             ]
         }
 
@@ -43,13 +36,12 @@ class ShubhamSalape:
             "LLMs",
             "Transformers",
             "Vector Databases",
-            "MLOps",
-            "Deep Learning"
+            "MLOps"
         ]
 
     def life_goal(self):
         return "Build intelligent systems that solve real-world problems."
-````
+```
 
 ---
 
@@ -58,6 +50,7 @@ class ShubhamSalape:
 🚀 Aspiring **AI Engineer & Data Scientist**
 📊 Skilled in **SQL, Power BI, Tableau, Python, Statistical Analysis & Machine Learning**
 🧠 Passionate about **clean datasets, intelligent systems, dashboards & predictive analytics**
+
 🔬 Exploring:
 
 * Customer Churn Prediction
@@ -103,7 +96,7 @@ class ShubhamSalape:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.shion.dev/api?username=ShubhamSalape&theme=gotham&hide_border=true&include_all_commits=false&count_private=false"/>
+<img height="170em" src="https://github-readme-stats.shion.dev/api?username=ShubhamSalape&theme=gotham&hide_border=true"/>
 
 <img height="170em" src="https://streak-stats.demolab.com/?user=ShubhamSalape&theme=gotham&hide_border=true"/>
 
@@ -131,6 +124,7 @@ class ShubhamSalape:
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### 📊 Data Analytics
@@ -154,6 +148,7 @@ Regression • Classification • NLP
 LLMs • Transformers • AI Systems
 
 </td>
+
 </tr>
 </table>
 
@@ -206,4 +201,3 @@ LLMs • Transformers • AI Systems
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
-```
