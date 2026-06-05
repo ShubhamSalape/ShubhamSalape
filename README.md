@@ -290,11 +290,11 @@ class ShubhamSalape:
 
 <a href="https://github.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
     width="60"
     alt="GitHub"
     title="GitHub"
-    style="display:inline-block;"
+    style="filter: invert(1); display:inline-block;"
   />
 </a>
 
