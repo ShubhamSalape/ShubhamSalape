@@ -296,9 +296,6 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">
-<img src="https://img.shields.io/badge/ROC--AUC-DC143C?style=for-the-badge&logo=target&logoColor=white" title="ROC-AUC"/>
-</a>
 
 <a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank">
 <img src="https://img.shields.io/badge/Feature%20Engineering-00599C?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Feature Engineering"/>
