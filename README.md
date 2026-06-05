@@ -1,10 +1,11 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Shubham%20Salape&fontSize=55&fontAlignY=40&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Explorer&descAlignY=62&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Scientist;LLM+%26+AI+Enthusiast;Building+Intelligent+Systems;Always+Training+Always+Learning"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFA500,100:FFD447&text=Shubham%20Salape&fontColor=0A192F&fontSize=55&fontAlignY=40&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=62&descColor=0A192F&animation=fadeIn"/>
 
 </div>
+```
+
 
 ---
 
