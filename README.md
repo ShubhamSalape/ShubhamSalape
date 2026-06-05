@@ -91,20 +91,20 @@ class ShubhamSalape:
 
 <div align="center">
 
-<a href="https://instagram.com/shubhusalape">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/shubhusalape" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="60" height="60" alt="Instagram" title="Instagram"/>
 </a>
 
-<a href="https://linkedin.com/in/shubham-salape">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/shubham-salape" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn" title="LinkedIn"/>
 </a>
 
-<a href="https://x.com/ShubhamO16">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/ShubhamO16" target="_blank" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="60" height="60" alt="X" title="X"/>
 </a>
 
-<a href="mailto:shubhamsalape@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:shubhamsalape@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Gmail" title="Gmail"/>
 </a>
 
 </div>
