@@ -9,11 +9,10 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA500,50:FFB732,100:FFD447&height=2"/>
 </p>
 
 
----
 
 # 🧠 AI PROFILE INITIALIZATION
 
