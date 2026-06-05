@@ -252,8 +252,15 @@ class ShubhamSalape:
 <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=spacy&logoColor=white" title="Natural Language Processing"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank">
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" title="Large Language Models"/>
+<a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.icons8.com/fluency/240/chatbot.png"
+    width="60"
+    height="60"
+    alt="LLM"
+    title="Large Language Model"
+    style="display:inline-block;"
+  />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
