@@ -152,7 +152,7 @@ class ShubhamSalape:
 
 <a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none;">
   <img 
-    src="https://cdn-icons-png.flaticon.com/512/732/732220.png"
+    src="https://img.icons8.com/color/512/bi.png"
     width="55"
     height="55"
     alt="BI"
