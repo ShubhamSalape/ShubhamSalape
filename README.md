@@ -116,7 +116,7 @@ class ShubhamSalape:
 
 <div align="center">
 
-<h3 align="center">💻 Languages</h3>
+<h2 align="center">💻 Languages</h2>
 <a href="https://www.python.org/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -137,7 +137,7 @@ class ShubhamSalape:
   />
 </a>
 
-<h3 align="center">📊 Data Analytics & BI</h3>
+<h2 align="center">📊 Data Analytics & BI</h2>
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" title="Power BI"/>
@@ -205,7 +205,7 @@ class ShubhamSalape:
 </a>
 
 
-<h3 align="center">🤖 Machine Learning & AI</h3>
+<h2 align="center">🤖 Machine Learning & AI</h2>
 
 <a href="https://scikit-learn.org/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" title="Scikit-Learn"/>
@@ -279,7 +279,7 @@ class ShubhamSalape:
   />
 </a>
 
-<h3 align="center">📈 Statistics & ML Concepts</h3>
+<h2 align="center">📈 Statistics & ML Concepts</h2>
 
 <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
@@ -307,7 +307,7 @@ class ShubhamSalape:
   />
 </a>
 
-<h3 align="center">🛠 Tools & Platforms</h3>
+<h2 align="center">🛠 Tools & Platforms</h2>
 
 <a href="https://jupyter.org/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" title="Jupyter Notebook"/>
@@ -341,7 +341,7 @@ class ShubhamSalape:
   />
 </a>
 
-<h3 align="center">⚙ Data Engineering & Workflow</h3>
+<h2 align="center">⚙ Data Engineering & Workflow</h2>
 
 <a href="https://en.wikipedia.org/wiki/Data_cleaning" target="_blank">
 <img src="https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=for-the-badge&logo=databricks&logoColor=white" title="Data Cleaning"/>
