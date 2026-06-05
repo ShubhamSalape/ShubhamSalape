@@ -2,15 +2,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFA500,100:FFD447&text=Shubham%20Salape&fontColor=0A192F&fontSize=55&fontAlignY=40&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=62&descColor=0A192F&animation=fadeIn"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTR5YTB6ZXQ0b3N3dXFtN3JmMWF5b2k2MnN2eHJ3eHExYjR4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
-
-<h2>
-⚡ Building Intelligent Systems ⚡
-</h2>
-
-<h3>
-⚡ Always Training Always Learning ⚡
-</h3>
+<h3> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Building+Intelligent+Systems;Always+Training+Always+Learning" /> </h3>
 
 </div>
 
