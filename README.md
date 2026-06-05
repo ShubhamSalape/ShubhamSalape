@@ -279,19 +279,19 @@ class ShubhamSalape:
 # 🛠 Tools & Platforms
 
 <a href="https://jupyter.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="55" height="55" title="Jupyter Notebook"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" title="Jupyter Notebook"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="55" height="55" title="VS Code"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" title="VS Code"/>
 </a>
 
 <a href="https://colab.research.google.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="55" height="55" title="Google Colab"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60" title="Google Colab"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="55" height="55" title="Git"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60" title="Git"/>
 </a>
 
 <a href="https://github.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
