@@ -164,8 +164,14 @@ class ShubhamSalape:
 
 # 📚 Data Science Libraries
 
-<a href="https://numpy.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="55" height="55" title="NumPy"/>
+<a href="https://numpy.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://iconape.com/wp-content/files/uo/353412/svg/numpy-seeklogo.com.svg"
+    width="55"
+    height="55"
+    alt="NumPy"
+    title="NumPy"
+  />
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
