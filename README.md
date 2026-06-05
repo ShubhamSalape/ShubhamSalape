@@ -117,11 +117,14 @@ class ShubhamSalape:
 
 <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
   <img 
-    src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
     alt="Python"
     title="Python"
     width="55"
     height="55"
+    style="
+      filter: drop-shadow(0 0 6px rgba(55,118,171,0.6));
+    "
   />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
