@@ -166,7 +166,7 @@ class ShubhamSalape:
 
 <a href="https://numpy.org/" target="_blank" style="text-decoration:none;">
   <img 
-    src="https://iconape.com/wp-content/files/uo/353412/svg/numpy-seeklogo.com.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
     width="55"
     height="55"
     alt="NumPy"
