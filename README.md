@@ -167,7 +167,6 @@ class ShubhamSalape:
   />
 </a>
 
----
 
 # 📚 Data Science Libraries
 
@@ -206,7 +205,6 @@ class ShubhamSalape:
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="60" title="SciPy"/>
 </a>
 
----
 
 # 🤖 Machine Learning & AI
 
@@ -282,8 +280,6 @@ class ShubhamSalape:
   />
 </a>
 
----
-
 # 📈 Statistics & ML Concepts
 
 <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
@@ -311,8 +307,6 @@ class ShubhamSalape:
     style="display:inline-block;"
   />
 </a>
-
----
 
 # 🛠 Tools & Platforms
 
@@ -347,8 +341,6 @@ class ShubhamSalape:
     style="filter: invert(1); display:inline-block;"
   />
 </a>
-
----
 
 # ⚙ Data Engineering & Workflow
 
