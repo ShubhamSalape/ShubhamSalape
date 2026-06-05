@@ -301,8 +301,15 @@ class ShubhamSalape:
 <img src="https://img.shields.io/badge/Feature%20Engineering-00599C?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Feature Engineering"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank">
-<img src="https://img.shields.io/badge/EDA-16A085?style=for-the-badge&logo=googleanalytics&logoColor=white" title="Exploratory Data Analysis"/>
+<a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.shields.io/badge/EDA-FF8C00?style=for-the-badge"
+    width="60"
+    height="60"
+    alt="EDA"
+    title="Exploratory Data Analysis"
+    style="display:inline-block;"
+  />
 </a>
 
 ---
