@@ -286,8 +286,14 @@ class ShubhamSalape:
 
 # 📈 Statistics & ML Concepts
 
-<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">
-<img src="https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge&logo=databricks&logoColor=red" title="Statistics"/>
+<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"
+    height="60"
+    alt="Statistics"
+    title="Statistics"
+    style="display:inline-block;"
+  />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">
