@@ -184,8 +184,14 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="55" height="55" title="Matplotlib"/>
+<a href="https://matplotlib.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+    width="55"
+    height="55"
+    alt="Matplotlib"
+    title="Matplotlib"
+  />
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
