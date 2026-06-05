@@ -239,7 +239,7 @@ class ShubhamSalape:
 
 <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
-    src="https://img.shields.io/badge/Deep%0ALearning-FF6F00?style=for-the-badge"
+    src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"
     height="60"
     alt="Deep Learning"
     title="Deep Learning"
