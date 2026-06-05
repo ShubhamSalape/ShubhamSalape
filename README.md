@@ -117,7 +117,7 @@ class ShubhamSalape:
 
 <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
   <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     width="55" 
     height="55" 
     alt="Python"
