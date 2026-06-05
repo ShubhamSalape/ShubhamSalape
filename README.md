@@ -150,8 +150,14 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank">
-<img src="https://img.shields.io/badge/Business%20Intelligence-0A192F?style=for-the-badge" title="Business Intelligence"/>
+<a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/732/732220.png"
+    width="55"
+    height="55"
+    alt="BI"
+    title="Business Intelligence"
+  />
 </a>
 
 ---
