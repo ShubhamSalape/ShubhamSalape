@@ -8,7 +8,10 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&color=0:F7DF1E,50:FFD700,100:FFEA00"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=30&section=header&color=0:F7DF1E,50:FFD700,100:FFEA00"/>
+
+
 
 
 
