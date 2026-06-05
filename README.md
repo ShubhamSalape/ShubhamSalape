@@ -82,27 +82,35 @@ class ShubhamSalape:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github,tensorflow,pytorch,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="SQL / MySQL" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" alt="Scikit-Learn"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter Notebook"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" title="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" title="Seaborn"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" title="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge" title="Machine Learning"/>
+<img src="https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge" title="Statistics"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" title="Deep Learning"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge" title="Neural Networks"/>
 
 </div>
+
 
 
 
