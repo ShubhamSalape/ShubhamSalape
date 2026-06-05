@@ -77,7 +77,6 @@ class ShubhamSalape:
 
 ---
 
-```md id="k3l2q1"
 # ⚡ Tech Stack
 
 <div align="center">
