@@ -92,19 +92,19 @@ class ShubhamSalape:
 <div align="center">
 
 <a href="https://instagram.com/shubhusalape" target="_blank" style="text-decoration:none !important;">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="60" height="60" alt="Instagram" title="Instagram"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="70" height="70" alt="Instagram" title="Instagram"/>
 </a>
 
 <a href="https://linkedin.com/in/shubham-salape" target="_blank" style="text-decoration:none !important;">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" title="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="70" height="70" alt="LinkedIn" title="LinkedIn"/>
 </a>
 
 <a href="https://x.com/ShubhamO16" target="_blank" style="text-decoration:none !important;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="60" height="60" alt="X" title="X" style="filter: invert(1);"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="70" height="70" alt="X" title="X" style="filter: invert(1);"/>
 </a>
 
 <a href="mailto:shubhamsalape@gmail.com" target="_blank" style="text-decoration:none !important;">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="60" height="60" alt="Gmail" title="Gmail"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="70" height="70" alt="Gmail" title="Gmail"/>
 </a>
 
 </div>
