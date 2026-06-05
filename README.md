@@ -234,8 +234,8 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
-<img src="https://img.shields.io/badge/DL-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" title="Deep Learning"/>
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+<img src="https://img.shields.io/badge/DL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="60" height="60" alt="Deep Learning" title="Deep Learning" style="display:inline-block;"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
