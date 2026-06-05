@@ -286,12 +286,24 @@ class ShubhamSalape:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" title="VS Code"/>
 </a>
 
-<a href="https://colab.research.google.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60" title="Google Colab"/>
+<a href="https://colab.research.google.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg"
+    width="60"
+    alt="Google Colab"
+    title="Google Colab"
+    style="display:inline-block;"
+  />
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60" title="Git"/>
+<a href="https://git-scm.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    width="60"
+    alt="Git"
+    title="Git"
+    style="display:inline-block;"
+  />
 </a>
 
 <a href="https://github.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
