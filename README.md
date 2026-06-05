@@ -238,8 +238,14 @@ class ShubhamSalape:
 <img src="https://img.shields.io/badge/DL-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" title="Deep Learning"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
-<img src="https://img.shields.io/badge/Neural%20Networks-111827?style=for-the-badge&logo=tensorflow&logoColor=orange" title="Neural Networks"/>
+<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+    width="60"
+    alt="Neural Network"
+    title="Neural Network"
+    style="display:inline-block;"
+  />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
