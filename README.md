@@ -25,11 +25,13 @@ class ShubhamSalape:
 
         self.skills = {
             "Languages": ["Python", "SQL"],
-            "Visualization": ["Power BI", "Tableau"],
+            "Visualization": ["Power BI", "Tableau","Matplotlib","Seaborn"],
             "Machine Learning": [
                 "Scikit-Learn",
                 "Regression",
                 "Classification",
+                "Decision Tree",
+                "Random Forest",
                 "NLP"
             ]
         }
@@ -42,7 +44,8 @@ class ShubhamSalape:
         ]
 
     def life_goal(self):
-        return "Build intelligent systems that solve real-world problems."
+        print("Build intelligent systems that solve real-world problems.")
+        print("Keep learning... Keep improving...")
 ````
 
 ---
