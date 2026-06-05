@@ -108,93 +108,58 @@ class ShubhamSalape:
 
 <div align="center">
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/>
-</a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL / SQL"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" title="Scikit-Learn"/></a>
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL / SQL"/>
-</a>
+<br><br>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git"/>
-</a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter Notebook"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy"/></a>
 
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub"/>
-</a>
+<br><br>
 
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code"/>
-</a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/MPL-11557C?style=for-the-badge" title="Matplotlib"/></a>
 
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow"/>
-</a>
+<br>
 
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch"/>
-</a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/SNS-1F2937?style=for-the-badge" title="Seaborn"/></a>
 
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" title="Scikit-Learn"/>
-</a>
+<br>
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/PBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
-</a>
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://img.shields.io/badge/AI-1E293B?style=for-the-badge&logo=openai&logoColor=FFD447" title="Artificial Intelligence"/></a>
 
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.shields.io/badge/TBL-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau"/>
-</a>
+<br>
 
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter Notebook"/>
-</a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="https://img.shields.io/badge/ML-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=orange" title="Machine Learning"/></a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/>
-</a>
+<br>
 
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy"/>
-</a>
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank"><img src="https://img.shields.io/badge/DL-312E81?style=for-the-badge&logo=tensorflow&logoColor=FFD447" title="Deep Learning"/></a>
 
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://img.shields.io/badge/MPL-11557C?style=for-the-badge" title="Matplotlib"/>
-</a>
+<br>
 
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SNS-1F2937?style=for-the-badge" title="Seaborn"/>
-</a>
+<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank"><img src="https://img.shields.io/badge/NN-7C2D12?style=for-the-badge&logo=pytorch&logoColor=FFD447" title="Neural Networks"/></a>
 
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">
-  <img src="https://img.shields.io/badge/AI-1E293B?style=for-the-badge&logo=openai&logoColor=FFD447" title="Artificial Intelligence"/>
-</a>
+<br>
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-  <img src="https://img.shields.io/badge/ML-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=orange" title="Machine Learning"/>
-</a>
+<a href="https://spacy.io/" target="_blank"><img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=spacy&logoColor=FFD447" title="Natural Language Processing"/></a>
 
-<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
-  <img src="https://img.shields.io/badge/DL-312E81?style=for-the-badge&logo=tensorflow&logoColor=FFD447" title="Deep Learning"/>
-</a>
+<br>
 
-<a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
-  <img src="https://img.shields.io/badge/NN-7C2D12?style=for-the-badge&logo=pytorch&logoColor=FFD447" title="Neural Networks"/>
-</a>
+<a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/LLMs-172554?style=for-the-badge&logo=openai&logoColor=FFD447" title="Large Language Models"/></a>
 
-<a href="https://spacy.io/" target="_blank">
-  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=spacy&logoColor=FFD447" title="Natural Language Processing"/>
-</a>
+<br>
 
-<a href="https://openai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LLMs-172554?style=for-the-badge&logo=openai&logoColor=FFD447" title="Large Language Models"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank">
-  <img src="https://img.shields.io/badge/Stats-111827?style=for-the-badge&logo=databricks&logoColor=FFD447" title="Statistics"/>
-</a>
+<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"><img src="https://img.shields.io/badge/Stats-111827?style=for-the-badge&logo=databricks&logoColor=FFD447" title="Statistics"/></a>
 
 </div>
 
