@@ -214,8 +214,14 @@ class ShubhamSalape:
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="55" height="55" title="TensorFlow"/>
 </a>
 
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="55" height="55" title="PyTorch"/>
+<a href="https://pytorch.org/" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+    width="55"
+    height="55"
+    alt="PyTorch"
+    title="PyTorch"
+  />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
