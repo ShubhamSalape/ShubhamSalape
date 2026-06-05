@@ -125,11 +125,15 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" title="SQL / MySQL"/>
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none; border:none; outline:none;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    width="60"
+    title="SQL"
+    alt="SQL"
+    style="vertical-align:middle;"
+  />
 </a>
-
----
 
 # 📊 Data Analytics & BI
 
