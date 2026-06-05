@@ -154,12 +154,13 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none;">
+<a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
-    src="https://www.clipartmax.com/middle/m2i8i8H7G6H7b1b1_business-intelligence-transparent-png/"
+    src="https://img.icons8.com/color/512/combo-chart--v1.png"
     width="60"
-    alt="BI"
+    alt="Business Intelligence"
     title="Business Intelligence"
+    style="display:inline-block;"
   />
 </a>
 
