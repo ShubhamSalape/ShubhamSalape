@@ -256,7 +256,8 @@ class ShubhamSalape:
 
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
-    src="https://img.shields.io/badge/Natural%0ALanguage%0AProcessing-4B8BBE?style=for-the-badge"
+    src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"
+    width="60"
     height="60"
     alt="NLP"
     title="Natural Language Processing"
