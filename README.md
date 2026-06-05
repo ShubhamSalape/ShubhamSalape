@@ -195,7 +195,7 @@ class ShubhamSalape:
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" title="Seaborn"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" title="Seaborn"/>
 </a>
 
 <a href="https://scipy.org/" target="_blank">
