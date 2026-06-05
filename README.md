@@ -224,8 +224,14 @@ class ShubhamSalape:
   />
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
-<img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning"/>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://img.icons8.com/external-flat-icons-inmotus-design/512/external-Neural-Network-artificial-intelligence-flat-icons-inmotus-design.png"
+    width="60"
+    alt="Machine Learning"
+    title="Machine Learning"
+    style="display:inline-block;"
+  />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
