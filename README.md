@@ -152,7 +152,7 @@ class ShubhamSalape:
 
 <a href="https://powerbi.microsoft.com/" target="_blank" style="text-decoration:none;">
   <img 
-    src="https://www.clipartmax.com/middle/m2i8b1m2d3G6A0A0_gain-new-insights-into-your-business-operations-through-business-intelligence-logo/"
+    src="https://favpng.com/png_view/business-logo-business-intelligence-brand-organization-png/BTgbwctp"
     width="55"
     height="55"
     alt="BI"
