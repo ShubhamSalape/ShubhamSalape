@@ -116,11 +116,11 @@ class ShubhamSalape:
 # 💻 Languages
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python" width="55" height="55" title="Python"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" title="SQL / MySQL" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" title="SQL / MySQL"/>
 </a>
 
 ---
@@ -128,15 +128,15 @@ class ShubhamSalape:
 # 📊 Data Analytics & BI
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" title="Power BI" alt="Power BI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" height="55" title="Power BI"/>
 </a>
 
 <a href="https://www.tableau.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" title="Tableau" alt="Tableau"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55" height="55" title="Tableau"/>
 </a>
 
 <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" title="Microsoft Excel" alt="Excel"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019-present.svg" width="55" height="55" title="Microsoft Excel"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank">
@@ -148,23 +148,23 @@ class ShubhamSalape:
 # 📚 Data Science Libraries
 
 <a href="https://numpy.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" title="NumPy" alt="NumPy"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="55" height="55" title="NumPy"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" title="Pandas" alt="Pandas"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55" height="55" title="Pandas"/>
 </a>
 
 <a href="https://matplotlib.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" title="Matplotlib" alt="Matplotlib"/>
+<img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="55" height="55" title="Matplotlib"/>
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" title="Seaborn" alt="Seaborn"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" height="55" title="Seaborn"/>
 </a>
 
 <a href="https://scipy.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" title="SciPy" alt="SciPy"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55" height="55" title="SciPy"/>
 </a>
 
 ---
@@ -172,15 +172,15 @@ class ShubhamSalape:
 # 🤖 Machine Learning & AI
 
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" alt="Scikit-Learn"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" title="Scikit-Learn"/>
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="55" height="55" title="TensorFlow"/>
 </a>
 
 <a href="https://pytorch.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="55" height="55" title="PyTorch"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
@@ -232,23 +232,23 @@ class ShubhamSalape:
 # 🛠 Tools & Platforms
 
 <a href="https://jupyter.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" title="Jupyter Notebook" alt="Jupyter"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="55" height="55" title="Jupyter Notebook"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="55" height="55" title="VS Code"/>
 </a>
 
 <a href="https://colab.research.google.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" title="Google Colab" alt="Google Colab"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="55" height="55" title="Google Colab"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="55" height="55" title="Git"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55" title="GitHub"/>
 </a>
 
 ---
