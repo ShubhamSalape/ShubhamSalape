@@ -226,7 +226,7 @@ class ShubhamSalape:
 
 <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
-    src="https://img.icons8.com/external-flat-icons-inmotus-design/512/external-Neural-Network-artificial-intelligence-flat-icons-inmotus-design.png"
+    src="https://img.icons8.com/color/512/artificial-intelligence.png"
     width="60"
     alt="Machine Learning"
     title="Machine Learning"
