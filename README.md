@@ -3,10 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFA500,50:FFB732,100:FFD447&text=Shubham%20Salape&fontColor=0A192F&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20ML%20Explorer&descAlignY=60&descColor=0A192F&animation=fadeIn"/>
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/213760697-0b9df8cc-4c31-4e62-bf7f-3b06d4d987c0.gif"/>
-
-
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2d6ec4b6-7d44-4c3e-b3ed-5d4dfbcb6f3.gif"/>
 
 <br>
 
