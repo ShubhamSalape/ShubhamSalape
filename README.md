@@ -140,8 +140,14 @@ class ShubhamSalape:
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55" height="55" title="Tableau"/>
 </a>
 
-<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019-present.svg" width="55" height="55" title="Microsoft Excel"/>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" style="text-decoration:none;">
+  <img 
+    src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png"
+    width="55"
+    height="55"
+    alt="Excel"
+    title="Microsoft Excel"
+  />
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Business_intelligence" target="_blank">
