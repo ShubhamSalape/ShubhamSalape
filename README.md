@@ -91,20 +91,20 @@ class ShubhamSalape:
 
 <div align="center">
 
-<a href="https://instagram.com/shubhusalape" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="60" height="60" alt="Instagram" title="Instagram"/>
+<a href="https://instagram.com/shubhusalape" target="_blank" style="text-decoration:none !important;">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="60" height="60" alt="Instagram" title="Instagram"/>
 </a>
 
-<a href="https://linkedin.com/in/shubham-salape" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn" title="LinkedIn"/>
+<a href="https://linkedin.com/in/shubham-salape" target="_blank" style="text-decoration:none !important;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" title="LinkedIn"/>
 </a>
 
-<a href="https://x.com/ShubhamO16" target="_blank" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="60" height="60" alt="X" title="X"/>
+<a href="https://x.com/ShubhamO16" target="_blank" style="text-decoration:none !important;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="60" height="60" alt="X" title="X" style="filter: invert(1);"/>
 </a>
 
-<a href="mailto:shubhamsalape@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Gmail" title="Gmail"/>
+<a href="mailto:shubhamsalape@gmail.com" target="_blank" style="text-decoration:none !important;">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="60" height="60" alt="Gmail" title="Gmail"/>
 </a>
 
 </div>
