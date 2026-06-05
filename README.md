@@ -256,8 +256,14 @@ class ShubhamSalape:
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" title="Large Language Models"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
-<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=semanticweb&logoColor=white" title="Retrieval-Augmented Generation"/>
+<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png"
+    width="60"
+    alt="RAG"
+    title="Retrieval-Augmented Generation"
+    style="display:inline-block;"
+  />
 </a>
 
 ---
