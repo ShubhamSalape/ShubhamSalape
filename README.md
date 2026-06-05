@@ -115,15 +115,8 @@ class ShubhamSalape:
 
 # 💻 Languages
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img 
-    src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"
-    width="55"
-    height="55"
-    alt="Python"
-    title="Python"
-  />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" title="SQL / MySQL"/>
 </a>
