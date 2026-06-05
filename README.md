@@ -138,11 +138,11 @@ class ShubhamSalape:
 # 📊 Data Analytics & BI
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" height="55" title="Power BI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" title="Power BI"/>
 </a>
 
 <a href="https://www.tableau.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55" height="55" title="Tableau"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60" title="Tableau"/>
 </a>
 
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" style="text-decoration:none;">
