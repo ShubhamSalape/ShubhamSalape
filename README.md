@@ -148,8 +148,7 @@ class ShubhamSalape:
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" style="text-decoration:none;">
   <img 
     src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png"
-    width="55"
-    height="55"
+    width="60"
     alt="Excel"
     title="Microsoft Excel"
   />
@@ -171,8 +170,7 @@ class ShubhamSalape:
 <a href="https://numpy.org/" target="_blank" style="text-decoration:none;">
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-    width="55"
-    height="55"
+    width="60"
     alt="NumPy"
     title="NumPy"
   />
@@ -181,8 +179,7 @@ class ShubhamSalape:
 <a href="https://pandas.pydata.org/" target="_blank" style="text-decoration:none;">
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-    width="55"
-    height="55"
+    width="60"
     alt="Pandas"
     title="Pandas"
   />
@@ -191,19 +188,18 @@ class ShubhamSalape:
 <a href="https://matplotlib.org/" target="_blank" style="text-decoration:none;">
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
-    width="55"
-    height="55"
+    width="60"
     alt="Matplotlib"
     title="Matplotlib"
   />
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" height="55" title="Seaborn"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" title="Seaborn"/>
 </a>
 
 <a href="https://scipy.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="55" height="55" title="SciPy"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="60" title="SciPy"/>
 </a>
 
 ---
@@ -211,18 +207,17 @@ class ShubhamSalape:
 # 🤖 Machine Learning & AI
 
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" title="Scikit-Learn"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" title="Scikit-Learn"/>
 </a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="55" height="55" title="TensorFlow"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" title="TensorFlow"/>
 </a>
 
 <a href="https://pytorch.org/" target="_blank" style="text-decoration:none;">
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
-    width="55"
-    height="55"
+    width="60"
     alt="PyTorch"
     title="PyTorch"
   />
