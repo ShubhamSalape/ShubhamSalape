@@ -287,13 +287,7 @@ class ShubhamSalape:
 </a>
 
 <a href="https://colab.research.google.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
-    width="60"
-    alt="Google Colab"
-    title="Google Colab"
-    style="display:inline-block;"
-  />
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" alt="Google Colab" title="Google Colab" style="display:inline-block;"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
