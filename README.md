@@ -390,11 +390,7 @@ class ShubhamSalape:
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=ShubhamSalape&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=ShubhamSalape&theme=gotham&hide_border=true)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShubhamSalape&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShubhamSalape&show_icons=true&bg_color=0d1117&title_color=F7DF1E&text_color=FFFFFF&icon_color=FFD700&hide_border=true&rank_icon=github"/> <img height="170em" src="https://streak-stats.demolab.com?user=ShubhamSalape&background=0d1117&ring=F7DF1E&fire=FFD700&currStreakLabel=F7DF1E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&hide_border=true"/> </div> <br> <div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSalape&layout=compact&bg_color=0d1117&title_color=F7DF1E&text_color=FFFFFF&hide_border=true"/> </div>
 
 
 
