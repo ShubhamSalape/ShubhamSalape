@@ -291,11 +291,8 @@ class ShubhamSalape:
 
 <h3 align="center">📈 Statistics & ML Concepts</h3>
 
-<a href="https://en.wikipedia.org/wiki/Statistics"
-   target="_blank"
-   style="text-decoration:none; border:none; outline:none; box-shadow:none;">
-<img
-    src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"
+<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" style="text-decoration:none; border:none; outline:none; box-shadow:none;">
+<img src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"
     height="60"
     alt="Statistics"
     title="Statistics"
