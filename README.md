@@ -13,10 +13,13 @@
 
 
 
+<h1 align="center">
 
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="38"/>
 
+AI PROFILE INITIALIZATION
 
-# 🧠 AI PROFILE INITIALIZATION
+</h1>
 
 ```python
 class ShubhamSalape:
