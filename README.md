@@ -504,7 +504,7 @@ Model Deployment • Pipelines
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFA500,50:FFB732,100:FFD447"/>
+
 
 </div>
 
@@ -541,3 +541,5 @@ Model Deployment • Pipelines
 </a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFA500,50:FFB732,100:FFD447"/>
