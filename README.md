@@ -392,9 +392,9 @@ class ShubhamSalape:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShubhamSalape&show_icons=true&theme=github_dark&hide_border=true&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShubhamSalape&show_icons=true&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&icon_color=FFD700&hide_border=true"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=ShubhamSalape&theme=github-dark-blue&hide_border=true&border_radius=12"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=ShubhamSalape&theme=transparent&ring=F7DF1E&fire=FFD700&currStreakLabel=F7DF1E&hide_border=true"/>
 
 </div>
 
@@ -402,9 +402,10 @@ class ShubhamSalape:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSalape&layout=compact&theme=github_dark&hide_border=true&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSalape&layout=compact&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&hide_border=true"/>
 
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
