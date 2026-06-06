@@ -13,13 +13,17 @@
 
 
 
-<h1 align="center">
+<h1 align="left">
 
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="38"/>
+<img 
+src="https://media.tenor.com/ZVNOmmsR6aEAAAAi/artificial-intelligence-ai.gif" 
+width="45"
+style="vertical-align:middle; margin-right:10px;"/>
 
 AI PROFILE INITIALIZATION
 
 </h1>
+
 
 ```python
 class ShubhamSalape:
