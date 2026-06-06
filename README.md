@@ -115,23 +115,23 @@ class ShubhamSalape:
 
 <a href="https://x.com/ShubhamO16" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"
+    src="https://cdn.simpleicons.org/x/white"
     width="60"
     height="60"
     alt="X"
     title="X"
-    style="display:inline-block;"
+    style="display:inline-block; padding:6px; box-sizing:border-box;"
   />
 </a>
 
 <a href="mailto:shubhamsalape@gmail.com" target="_blank" style="text-decoration:none !important; border:none !important; outline:none !important; box-shadow:none !important;">
   <img 
-    src="https://img.icons8.com/color/512/gmail-new.png"
+    src="https://cdn.simpleicons.org/gmail"
     width="60"
     height="60"
     alt="Gmail"
     title="Gmail"
-    style="display:inline-block;"
+    style="display:inline-block; padding:6px; box-sizing:border-box;"
   />
 </a>
 
