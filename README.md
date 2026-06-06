@@ -439,13 +439,19 @@ Model Deployment • Pipelines
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
 
+
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSalape&theme=github-compact&hide_border=true&area=true"/>
+<img 
+  width="95%" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSalape&bg_color=0A192F&color=F7DF1E&line=FFD700&point=FFEA00&area=true&area_color=FFD700&hide_border=true&radius=12"
+/>
 
 </div>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
