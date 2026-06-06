@@ -12,14 +12,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
 
+
 <h1 align="left">
   <img 
-    src="https://media.tenor.com/ZVNOmmsR6aEAAAAi/artificial-intelligence-ai.gif"
+    src="https://img.icons8.com/fluency/96/artificial-intelligence.png"
     width="42"
     style="vertical-align:middle;"
   />
   AI PROFILE INITIALIZATION
 </h1>
+
 
 
 
