@@ -61,11 +61,14 @@ class ShubhamSalape:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=3000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligent+Solutions;Exploring+AI+%7C+Machine+Learning+%7C+Generative+AI;Building+Scalable+and+Impactful+ML+Systems"/>
+<h2>
+  
+✨ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=1&pause=1000000&color=F7DF1E&center=true&vCenter=true&repeat=false&width=850&lines=Transforming+Data+into+Intelligent+Solutions" />
+
+</h2>
 
 </div>
 
----
 
 🚀 Passionate about building **AI-powered systems** that transform raw data into meaningful insights and intelligent decision-making.
 
