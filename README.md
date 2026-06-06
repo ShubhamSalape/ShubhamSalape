@@ -390,11 +390,16 @@ class ShubhamSalape:
 
 # 📊 GitHub Analytics
 
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShubhamSalape&show_icons=true&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&icon_color=FFD700&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=ShubhamSalape&show_icons=true&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&icon_color=FFD700&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=ShubhamSalape&theme=transparent&ring=F7DF1E&fire=FFD700&currStreakLabel=F7DF1E&hide_border=true"/>
+<img height="170em"
+src="https://streak-stats.demolab.com?user=ShubhamSalape&theme=transparent&hide_border=true&ring=F7DF1E&fire=FFD700&currStreakLabel=F7DF1E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
@@ -402,9 +407,20 @@ class ShubhamSalape:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSalape&layout=compact&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSalape&layout=compact&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&hide_border=true"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSalape&bg_color=0d1117&color=F7DF1E&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
