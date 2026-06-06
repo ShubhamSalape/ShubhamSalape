@@ -59,30 +59,47 @@ class ShubhamSalape:
 
 # 💫 About Me
 
-🚀 Aspiring **AI Engineer & Data Scientist**
+<div align="center">
 
-📊 Skilled in:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=3000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligent+Solutions;Exploring+AI+%7C+Machine+Learning+%7C+Generative+AI;Building+Scalable+and+Impactful+ML+Systems"/>
 
-* Python
-* SQL
-* Power BI
-* Tableau
-* Statistical Analysis
-* Machine Learning
+</div>
 
-🧠 Interested in:
+---
 
-* Predictive Analytics
-* NLP Applications
-* Generative AI
-* LLMs & Transformers
-* End-to-End ML Systems
+🚀 Passionate about building **AI-powered systems** that transform raw data into meaningful insights and intelligent decision-making.
 
-🎯 Current Focus:
+🧠 Currently exploring the intersection of:
 
-* Building production-ready ML projects
-* Improving deployment & MLOps skills
-* Deepening understanding of modern AI systems
+- Machine Learning
+- Generative AI
+- NLP & Transformers
+- Predictive Analytics
+- End-to-End ML Pipelines
+
+⚡ Strong foundation in:
+
+<div align="center">
+
+`Python` • `SQL` • `Power BI` • `Tableau` • `Scikit-Learn` • `Statistics`
+
+</div>
+
+🎯 Focused on:
+
+- Developing production-ready ML applications
+- Improving deployment & MLOps workflows
+- Understanding modern LLM architectures
+- Building scalable AI systems for real-world use cases
+
+💡 Interested in creating solutions that combine:
+- intelligent automation
+- clean data pipelines
+- interactive analytics
+- user-centric AI experiences
+
+🌱 Continuously learning, experimenting, and pushing deeper into the evolving AI ecosystem.
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
