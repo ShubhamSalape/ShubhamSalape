@@ -482,7 +482,8 @@ Model Deployment • Pipelines
 
 <div align="center">
 
-> "Artificial Intelligence amplifies human capability."
+> “Artificial Intelligence is not about replacing human intelligence —
+> > it is about amplifying human potential.”
 
 </div>
 
