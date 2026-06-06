@@ -390,36 +390,11 @@ class ShubhamSalape:
 
 # 📊 GitHub Analytics
 
+![](https://github-readme-stats.shion.dev/api?username=ShubhamSalape&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-# 📊 GitHub Analytics
+![](https://streak-stats.demolab.com/?user=ShubhamSalape&theme=gotham&hide_border=true)<br/>
 
-<div align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=ShubhamSalape&show_icons=true&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&icon_color=FFD700&hide_border=true&rank_icon=github"/>
-
-<img height="170em"
-src="https://streak-stats.demolab.com?user=ShubhamSalape&theme=transparent&hide_border=true&ring=F7DF1E&fire=FFD700&currStreakLabel=F7DF1E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSalape&layout=compact&theme=transparent&title_color=F7DF1E&text_color=FFFFFF&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSalape&bg_color=0d1117&color=F7DF1E&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShubhamSalape&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
