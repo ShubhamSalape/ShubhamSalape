@@ -16,13 +16,14 @@
 <h1 align="left">
 
 <img 
-src="https://media.tenor.com/ZVNOmmsR6aEAAAAi/artificial-intelligence-ai.gif" 
-width="45"
-style="vertical-align:middle; margin-right:10px;"/>
+src="https://media.tenor.com/49C6hVr0YfYAAAAi/neurodiversity-neuro.gif" 
+width="42"
+style="vertical-align:middle; margin-right:12px;"/>
 
 AI PROFILE INITIALIZATION
 
 </h1>
+
 
 
 ```python
