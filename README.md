@@ -91,26 +91,31 @@ class ShubhamSalape:
 
 <div align="center">
 
-<a href="https://instagram.com/nilayraj_sharma_7781__" style="text-decoration:none;">
+<a href="https://instagram.com/nilayraj_sharma_7781__" title="Instagram" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/nilayraj-sharma" style="text-decoration:none;">
+<a href="https://linkedin.com/in/nilayraj-sharma" title="LinkedIn" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://x.com/nilayrajsharma7" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+<a href="https://x.com/nilayrajsharma7" title="X (Twitter)" style="text-decoration:none;">
+  <img 
+    src="https://cdn.simpleicons.org/x/ffffff"
+    width="40"
+    height="40"
+    alt="X"
+    style="display:inline-block; padding:6px; box-sizing:border-box;"
+  />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://wa.me/919967902946" title="WhatsApp Me">
+<a href="https://wa.me/919967902946" title="WhatsApp Me" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:nilayrajsharma7@gmail.com" style="text-decoration:none;">
+<a href="mailto:nilayrajsharma7@gmail.com" title="Send Email" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-
 
 </div>
 
