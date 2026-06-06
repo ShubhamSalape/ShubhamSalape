@@ -374,14 +374,64 @@ class ShubhamSalape:
 
 <div align="center">
 
-| Domain              | Technologies                         |
-| ------------------- | ------------------------------------ |
-| 📊 Data Analytics   | SQL, Power BI, Tableau               |
-| 🤖 Machine Learning | Regression, Classification, NLP      |
-| 🧠 Generative AI    | LLMs, Transformers, Vector Databases |
-| ⚙️ Deployment       | Streamlit, Flask, MLOps              |
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55"/>
+
+### 📊 Data Analytics
+
+SQL • Power BI • Tableau  
+Pandas • NumPy • Excel  
+Data Cleaning • EDA • Visualization
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55"/>
+
+### 🤖 Machine Learning
+
+Scikit-Learn • Regression  
+Classification • Feature Engineering  
+Model Evaluation • NLP
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/brain.png" width="55"/>
+
+### 🧠 Generative AI
+
+LLMs • Transformers  
+Prompt Engineering • RAG  
+Vector Databases • AI Systems
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/cloud-development.png" width="55"/>
+
+### ⚙️ Deployment
+
+Streamlit • Git • GitHub  
+VS Code • APIs • MLOps  
+Model Deployment • Pipelines
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
