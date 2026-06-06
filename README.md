@@ -63,7 +63,7 @@ class ShubhamSalape:
 
 <h2>
   
-✨ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=1&pause=1000000&color=F7DF1E&center=true&vCenter=true&repeat=false&width=850&lines=Transforming+Data+into+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=1&pause=1000000&color=F7DF1E&center=true&vCenter=true&repeat=false&width=850&lines=Transforming+Data+into+Intelligent+Solutions" />
 
 </h2>
 
@@ -104,40 +104,10 @@ class ShubhamSalape:
 🌱 Continuously learning, experimenting, and pushing deeper into the evolving AI ecosystem.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
 
-# 🌐 Connect With Me
 
-<div align="center">
 
-<a href="https://instagram.com/shubhusalape" title="Instagram" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/Shubham-Salape" title="LinkedIn" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/ShubhamO16" title="X (Twitter)" style="text-decoration:none;">
-  <img 
-    src="https://cdn.simpleicons.org/x/ffffff"
-    width="40"
-    height="40"
-    alt="X"
-    style="display:inline-block; padding:6px; box-sizing:border-box;"
-  />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://wa.me/7208268144" title="WhatsApp Me" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:shubhamsalape@gmail.com" title="Send Email" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
 
@@ -535,5 +505,39 @@ Model Deployment • Pipelines
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFA500,50:FFB732,100:FFD447"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/shubhusalape" title="Instagram" style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/Shubham-Salape" title="LinkedIn" style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/ShubhamO16" title="X (Twitter)" style="text-decoration:none;">
+  <img 
+    src="https://cdn.simpleicons.org/x/ffffff"
+    width="40"
+    height="40"
+    alt="X"
+    style="display:inline-block; padding:6px; box-sizing:border-box;"
+  />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/7208268144" title="WhatsApp Me" style="text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:shubhamsalape@gmail.com" title="Send Email" style="text-decoration:none;">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 
 </div>
