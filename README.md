@@ -388,7 +388,11 @@ class ShubhamSalape:
 
 # 📊 GitHub Analytics
 
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShubhamSalape&show_icons=true&bg_color=0d1117&title_color=F7DF1E&text_color=FFFFFF&icon_color=FFD700&hide_border=true&rank_icon=github"/> <img height="170em" src="https://streak-stats.demolab.com?user=ShubhamSalape&background=0d1117&ring=F7DF1E&fire=FFD700&currStreakLabel=F7DF1E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&hide_border=true"/> </div> <br> <div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSalape&layout=compact&bg_color=0d1117&title_color=F7DF1E&text_color=FFFFFF&hide_border=true"/> </div>
+![](https://github-readme-stats.shion.dev/api?username=ShubhamSalape&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=ShubhamSalape&theme=slateorange&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShubhamSalape&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
@@ -408,13 +412,16 @@ class ShubhamSalape:
 
 # 🏆 GitHub Achievements
 
-<div align="center">
+![](https://github-profile-trophy.vercel.app/?username=ShubhamSalape&theme=slateorange&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamSalape&theme=algolia&no-frame=true&row=1&column=6"/>
 
-</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=header&color=0:FFA500,50:FFB732,100:FFD447"/>
+
+[![](https://komarev.com/ghpvc/?username=ShubhamSalape&icon=0&color=2)](https://visitcount.itsvg.in)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # 🧠 Current Focus
