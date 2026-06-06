@@ -293,15 +293,18 @@ class ShubhamSalape:
 
 <a href="https://en.wikipedia.org/wiki/Statistics"
    target="_blank"
-   style="text-decoration:none; border:none; outline:none; box-shadow:none; display:inline-block;">
-<img
+   style="text-decoration:none; border:none; outline:none; box-shadow:none;">
+
+  <img
     src="https://img.shields.io/badge/Statistics-4285F4?style=for-the-badge"
     height="60"
     alt="Statistics"
     title="Statistics"
-    style="display:block; vertical-align:middle; border:none; outline:none; box-shadow:none;"
+    style="display:inline-block; vertical-align:middle; border:none; outline:none; box-shadow:none;"
   />
+
 </a>
+
 
 <a href="https://en.wikipedia.org/wiki/Feature_engineering" target="_blank">
 <img src="https://img.shields.io/badge/Feature%20Engineering-00599C?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Feature Engineering"/>
